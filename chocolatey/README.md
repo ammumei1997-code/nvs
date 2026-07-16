@@ -1,5 +1,5 @@
 my new choclate this two
-# NVS chocolatey package
+# NVS chocolatey packages
 
 Chocolatey package for [nvs](https://github.com/jasongin/nvs/)
 
