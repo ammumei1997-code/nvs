@@ -1,4 +1,4 @@
-my new choclate this one
+my new choclate this two
 # NVS chocolatey package
 
 Chocolatey package for [nvs](https://github.com/jasongin/nvs/)
